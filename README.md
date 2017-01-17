@@ -1,2 +1,3 @@
 # hello-world
 This is my first attempt at using git-hub...
+This is Al Haig-Thomas's first attempt at using GitHub as a repository for code.
